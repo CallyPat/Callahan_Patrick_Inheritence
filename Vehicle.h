@@ -19,7 +19,6 @@ class Vehicle
 
 string manufacturer;
   
-
 int yearBuilt;
   
 public:
@@ -37,7 +36,7 @@ string getMan();
 int getYear();
   
 
-void setMan(string m);
+void setMan(string x);
   
 
 void setYear(int y);
